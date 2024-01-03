@@ -1,13 +1,24 @@
-# Portfolio Title
+# Personal Portfolio
+This is my personal portfolio to showcase my latest projects and code 
 
-## Section 1
+## About me 
+I am a Wed Development student interested in learning Github, coding, and other technical topics 
 
-### Subsection
+## Skills
 
-### Subsection
+### Technical
+* HTML
+* Javascript
+* CSS
 
-## Section 2
 
-### Subsection
+## Other 
+* Communication
+* Problem solving
+* Efficiency 
+
+## Current Projects 
+* building first website useing frontend and backend development
+* Updateing Github portfolio
 
 ### Subsection
