@@ -1,4 +1,5 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [Hello World](hello_world)
+* [Project 1](Project_1)
+* [Project 2](Project_2)
